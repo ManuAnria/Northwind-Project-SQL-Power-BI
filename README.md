@@ -56,10 +56,10 @@ The final report consists of 4 specialized pages:
 
 ## 📸 Dashboard Preview
 *(Replace these with the links to your images once uploaded to GitHub)*
-* **Page 1: Executive Summary**
-* **Page 2: Customer Loyalty**
-* **Page 3: Inventory Status**
-* **Page 4: Employee Performance**
+* **Page 1: [Executive Summary](https://github.com/ManuAnria/Northwind-Project-SQL-Power-BI/blob/main/dashboards/n1.png)**
+* **Page 2: [Customer Loyalty](https://github.com/ManuAnria/Northwind-Project-SQL-Power-BI/blob/main/dashboards/n2.png)**
+* **Page 3: [Inventory Status](https://github.com/ManuAnria/Northwind-Project-SQL-Power-BI/blob/main/dashboards/n3.png)**
+* **Page 4: [Employee Performance](https://github.com/ManuAnria/Northwind-Project-SQL-Power-BI/blob/main/dashboards/n4.png)**
 
 ---
 
@@ -69,4 +69,4 @@ The final report consists of 4 specialized pages:
 3. Open the `.pbix` file (Power BI) and update the Data Source settings to point to your local MySQL server.
 
 ---
-**Developed by [Your Name]** *Connect with me on [LinkedIn](Your-LinkedIn-URL)*
+**Developed by Manuel Anria** *Connect with me on [LinkedIn](www.linkedin.com/in/manuelanria)*
